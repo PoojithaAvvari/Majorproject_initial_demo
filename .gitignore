@@ -1,3 +1,7 @@
 archive/
 best_model.pt
 *.pt
+venv/
+__pycache__/
+diffvenv/
+fake_xrays/
